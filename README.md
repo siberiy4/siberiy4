@@ -6,7 +6,7 @@ HTTPとかのプロトコルも気になり始めた。
   
 - 基本構文が書ける言語  
 C,C++,Go,Python  
-Terraform(さくらのくらうど)
+Terraform(さくらのくらうど),Ansible
   
 ## link
 - [Blog](yokanyukari.hatenablog.com)  
