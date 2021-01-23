@@ -4,9 +4,7 @@ ICTSC 2019,2020運営
 関心: インフラ、ネットワーク  
 HTTPとかのプロトコルも気になり始めた。
   
-- 基本構文が書ける言語  
-C,C++,Go,Python  
-Terraform(さくらのくらうど),Ansible
+
   
 ## link
 - [Blog](yokanyukari.hatenablog.com)  
