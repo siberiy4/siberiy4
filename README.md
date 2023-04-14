@@ -1,6 +1,6 @@
 # yo_kanyukari
 ## 概要
-ICTSC 2019,2020,2021夏 運営  
+ICTSC 2019,2020,2021夏/冬,2022 運営  
 - [ICTSC2019 本選問題: DM-VPNをつなげてください](https://blog.icttoracon.net/?p=3127)
 - [ICTSC2020 k8s 構築](https://blog.icttoracon.net/?p=3319)
 - [ICTSC2020 本選問題: Nginxが展開されない](https://blog.icttoracon.net/?p=3511)
