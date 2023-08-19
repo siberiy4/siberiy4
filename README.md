@@ -1,4 +1,4 @@
-# yo_kanyukari
+
 ## 概要
 ICTSC 2019,2020,2021夏/冬,2022 運営  
 - [ICTSC2019 本選問題: DM-VPNをつなげてください](https://blog.icttoracon.net/?p=3127)
