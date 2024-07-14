@@ -14,4 +14,4 @@ HTTPとかのプロトコルも気になり始めた。
 - [Blog](https://hackmd.io/@siberiy4)
 - [Blog](yokanyukari.hatenablog.com)  
 - [AtCoder](https://atcoder.jp/users/yo_kanyukari)  
-- [Qiita](https://qiita.com/yo_kanyukari)  
+- [Qiita](https://qiita.com/siberiy4)  
