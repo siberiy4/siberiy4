@@ -12,6 +12,6 @@ HTTPとかのプロトコルも気になり始めた。
   
 ## link
 - [Blog](https://hackmd.io/@siberiy4)
-- [Blog](yokanyukari.hatenablog.com)  
+- [Blog](https://yokanyukari.hatenablog.com/)  
 - [AtCoder](https://atcoder.jp/users/yo_kanyukari)  
 - [Qiita](https://qiita.com/siberiy4)  
